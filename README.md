@@ -7,10 +7,10 @@ Depending on the datasets, you may require ~80GB of RAM. This can be greatly red
 
 Workflow for example: <br>
 (1) download CHIRPS precipitation data and calculate percentile thresholds by running download_pr_and_calculate_percentiles.ipynb. <br>
-(More information about CHIRPS can be found here: https://www.chc.ucsb.edu/data/chirps). <br><br>
+(More information about CHIRPS can be found here: https://www.chc.ucsb.edu/data/chirps). <br>
 
 (2) download country shapefiles and remittance data:
-<br><br>
+<br>
 
 (3) run adaptation_jupyter_notebook.ipynb to process climate and remittance data and create Figures 1 and 3.
 
