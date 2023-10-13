@@ -1,6 +1,6 @@
 # README File
 Code submitted with Pisor et al. to One Earth. <br>
-Python scripts written by Danielle Touma (detouma@ucar.edu) and R script is written Anne Pisor (anne.pisor@wsu.edu).<br>
+Python scripts written by Danielle Touma (detouma@ucar.edu) and R script is written Anne Pisor (anne.pisor@wsu.edu). <br>
 This is an example workflow of identifying and characterizing climate extremes in an observational dataset, processing adaptation data, and taking a first step in relating the two datasets.<br>
 For more information about the rationale, methods, and findings, please refer to the paper and supplementary material.
 
